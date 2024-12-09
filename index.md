@@ -1,5 +1,5 @@
 # The workshop website is under construction  
-Please come back nearer the time for your workshop or for our current workshops please see [The Newcastle University RSE Team Website](https://rse.ncldata.dev/events) or contact [Jannetta Steyn](mailto:Jannetta.Steyn@newcastle.ac.uk) in the [RSE Team ](https://rse.ncldata.dev/contact)   
+Please come back nearer the time for your workshop or for our current workshops please see [The Newcastle University RSE Team Website](https://rse.ncldata.dev/events) or contact [Jannetta Steyn](mailto:Jannetta.Steyn@newcastle.ac.uk) in the [RSE Team ](https://rse.ncldata.dev/contact).   
 
 ![Software Carpentries Logo](SoftwareCarpentry.png)
 ### In the meantime, here are links to the training materials for our workshops:
