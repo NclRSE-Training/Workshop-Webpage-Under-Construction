@@ -1,3 +1,6 @@
+--- 
+---
+
 ![Newcastle University Logo](ncl_logo.svg)           ![Software Carpentries Logo](SoftwareCarpentry.png)
 The workshop website is under construction, please come back nearer the time for your workshop.  For more about our workshops, see [The Newcastle University RSE Team Website](https://rse.ncldata.dev/events) or contact [Jannetta Steyn](mailto:Jannetta.Steyn@newcastle.ac.uk) in the [RSE Team ](https://rse.ncldata.dev/contact).   
 
