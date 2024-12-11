@@ -16,4 +16,5 @@ The workshop website is under construction, please come back nearer the time for
 - [Programming with R](https://swcarpentry.github.io/r-novice-gapminder/)
 
 We run Software Carpentries and Carpentries Instpired Workshops.  Find out more about [The Carpentries](https://carpentries.org/)
-![The Carpentries Impact 2019](carpentries-impact.png)
+![The Carpentries Impact 2019 - Source: https://carpentries.org/blog/2019/11/carpentries-impact.png
+License: licensed Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/legalcode](carpentries-impact.png)
