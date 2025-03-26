@@ -11,7 +11,7 @@ The workshop website is under construction, please come back nearer the time for
 - [Version Control with Git](https://nclrse-training.github.io/git-ultra-novice/)
 - [Programming with Python](https://carpentries-incubator.github.io/python-novice-programming-gapminder/)
 - [HPC Carpentry Day 1 of 2 - Unix Shell](https://swcarpentry.github.io/shell-novice/)
-- [HPC Carpentry Day 2 of 2](https://carpentries-incubator.github.io/hpc-intro/)
+- [HPC Carpentry Day 2 of 2 - HPC at Newcastle](https://nclrse-training.github.io/hpc-intro-rocket/)
 - [Introduction to IoT](https://carpentries-incubator.github.io/iot-novice/index.html)
 - [Programming with R](https://swcarpentry.github.io/r-novice-gapminder/)
 
